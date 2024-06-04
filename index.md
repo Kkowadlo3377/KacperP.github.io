@@ -68,7 +68,7 @@ func greet(name: String) -> String {
 
 print(greet(name: "World"))
 ```  
-[Link do strony w Swift](stronaSwift.html)
+[Link do strony w Swift](StronaSwift.html)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ### Warto też zajrzeć na nasze sosialmedia:
