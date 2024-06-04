@@ -7,64 +7,78 @@ layout: default
 ## 1.Zrozumienie podstaw:
 
 ```
-JavaScript to język programowania często używany 
-do tworzenia interaktywnych stron internetowych.
-Możesz go również używać do tworzenia aplikacji
-internetowych i serwerowych.
+C++ to wszechstronny język programowania ogólnego przeznaczenia,
+ który jest często używany do tworzenia aplikacji systemowych, 
+ oprogramowania inżynieryjnego i gier
 ```
 
-## 2.Zmienne:
+## 2.Zmienne i typy danych:
 
 ```
-Zmienne są pojemnikami na przechowywanie danych. 
-Aby zadeklarować zmienną, użyj słowa kluczowego 
-let lub const, a następnie nadaj jej nazwę.Na przykład:
+Zmienne w C++ są używane do przechowywania danych. 
+Deklarujesz zmienną, podając jej typ oraz nazwę. Na przykład:
 ```
-```JavaScript
-let liczba = 10;
-const tekst = "Witaj, Świecie!";
-
+```cpp
+int liczba = 10;
+double przecinek = 3.14;
+char znak = 'A';
+std::string tekst = "Witaj, Świecie!";
 ```
 
 ## 3.Funkcje:
 ```
-Funkcje są blokami kodu, które wykonują określone zadania. 
-Możesz je definiować i wywoływać w swoim kodzie. Przykład: 
+Funkcje w C++ są używane do organizowania kodu w bloki, które 
+mogą być wielokrotnie wywoływane. Przykład prostej funkcji: 
 ```
-```JavaScript
-function witaj(imie) {
-    console.log("Witaj, " + imie + "!");
+```cpp
+#include <iostream>
+
+void witaj(std::string imie) {
+    std::cout << "Witaj, " << imie << "!" << std::endl;
 }
 
-witaj("Jan");
-
-```
-## 4.Warunki i pętle:
-```
-Warunki pozwalają na wykonanie różnych działań w zależności od spełnienia 
-określonych warunków.Użyj instrukcji warunkowych if, else if i else. Na przykład:
-```
-```js
-let liczba = 10;
-
-if (liczba > 0) {
-  console.log("Liczba jest dodatnia.");
-} else if (liczba === 0) {
-  console.log("Liczba wynosi zero.");
-} else {
-  console.log("Liczba jest ujemna.");
+int main() {
+    witaj("Jan");
+    return 0;
 }
+```
+## 4.Warunki:
+```
+Warunki w C++ pozwalają na wykonywanie różnych operacji 
+w zależności od spełnienia określonych warunków. 
+Użyj instrukcji warunkowych if, else if i else. Przykład:
+```
+```cpp
+#include <iostream>
 
-```
+int main() {
+    int liczba = 10;
 
-## 5:
-```
-Pętle pozwalają na wykonywanie określonych operacji wielokrotnie. 
-JavaScript oferuje pętle for, while i do...while. Na przykład:
-```
-```js
-for (let i = 0; i < 5; i++) {
-    console.log("Liczba: " + i);
+    if (liczba > 0) {
+        std::cout << "Liczba jest dodatnia." << std::endl;
+    } else if (liczba == 0) {
+        std::cout << "Liczba wynosi zero." << std::endl;
+    } else {
+        std::cout << "Liczba jest ujemna." << std::endl;
+    }
+
+    return 0;
 }
+```
 
+## 5.Pętle:
+```
+Pętle pozwalają na wielokrotne wykonywanie określonych operacji.
+ W C++ masz pętle for, while i do...while. Przykład:
+```
+```cpp
+#include <iostream>
+
+int main() {
+    for (int i = 0; i < 5; i++) {
+        std::cout << "Liczba: " << i << std::endl;
+    }
+
+    return 0;
+}
 ```

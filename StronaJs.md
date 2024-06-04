@@ -39,7 +39,7 @@ function witaj(imie) {
 witaj("Jan");
 
 ```
-## 4.Warunki i pętle:
+## 4.Warunki:
 ```
 Warunki pozwalają na wykonanie różnych działań w zależności od spełnienia 
 określonych warunków.Użyj instrukcji warunkowych if, else if i else. Na przykład:
@@ -57,7 +57,7 @@ if (liczba > 0) {
 
 ```
 
-## 5:
+## 5.Pętle:
 ```
 Pętle pozwalają na wykonywanie określonych operacji wielokrotnie. 
 JavaScript oferuje pętle for, while i do...while. Na przykład:
