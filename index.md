@@ -32,6 +32,8 @@ int main() {
     return 0;
 }
 ```
+[Link do strony C++](stronaCpp.html)
+
 ## Programowanie w PHP:
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="70">
 
