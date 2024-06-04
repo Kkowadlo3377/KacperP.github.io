@@ -66,18 +66,6 @@ func greet(name: String) -> String {
 print(greet(name: "World"))
 ```  
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ### Warto też zajrzeć na nasze sosialmedia:
@@ -90,10 +78,4 @@ print(greet(name: "World"))
  [X](https://x.com/batq2)
 
 
-```
-Long single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
