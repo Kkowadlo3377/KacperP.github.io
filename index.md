@@ -56,6 +56,7 @@ end
 
 puts greet("World")
 ``` 
+[Link do strony w Ruby](stronaRuby.html)
 ## Programowanie w Swift:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="100">
 
@@ -67,17 +68,18 @@ func greet(name: String) -> String {
 
 print(greet(name: "World"))
 ```  
-
+[Link do strony w Swift](stronaSwift.html)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ### Warto też zajrzeć na nasze sosialmedia:
+
 [GitHub Repository](https://bartdurak.github.io/1a/)
 <br>
 [Facebook](https://www.facebook.com/zstkolbuszowa?locale=pl_PL)
 <br>
  [YouTube](https://www.youtube.com/@bartomiejdurak1723)
 <br>
- [X](https://x.com/batq2)
+ [X-twitter](https://x.com/batq2)
 
 
 
