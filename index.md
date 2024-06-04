@@ -2,10 +2,6 @@
 layout: default
 ---
 
-
-[Link to another page](./another-page.html).
-
-
 # Programowanie:
 
 ````
@@ -50,8 +46,8 @@ echo "Hello, World!";
 ## Programowanie w Ruby:
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby Logo" width="50">
 
-```sass
-// Kod Ruby z podświetlaniem składni
+```ruby
+#Kod Ruby z podświetlaniem składni
 def greet(name)
 "Hello, #{name}!"
 end
