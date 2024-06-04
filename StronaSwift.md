@@ -10,7 +10,6 @@ layout: default
 Swift to nowoczesny, szybki i bezpieczny język programowania stworzony przez Apple. 
 Jest używany do tworzenia aplikacji na platformy iOS, macOS, watchOS i tvOS.
 ```
-
 ## 2.Zmienne i typy danych:
 
 ```
@@ -61,6 +60,7 @@ print("Liczba jest ujemna.")
 Swift oferuje różne sposoby tworzenia pętli, takie jak `for`, 
 `while` i `repeat-while`. Przykład użycia pętli `for`:
 ```
+
 ```swift
 for i in 0..<5 { 
 print("Liczba: \(i)")
