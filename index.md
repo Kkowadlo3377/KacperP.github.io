@@ -56,7 +56,7 @@ end
 
 puts greet("World")
 ``` 
-[Link do strony w Ruby](stronaRuby.html)
+[Link do strony w Ruby](StronaRuby.html)
 ## Programowanie w Swift:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="100">
 
