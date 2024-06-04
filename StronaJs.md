@@ -20,7 +20,7 @@ Zmienne są pojemnikami na przechowywanie danych.
 Aby zadeklarować zmienną, użyj słowa kluczowego 
 let lub const, a następnie nadaj jej nazwę.Na przykład:
 ```
-```JavaScript
+```js
 let liczba = 10;
 const tekst = "Witaj, Świecie!";
 
@@ -31,7 +31,7 @@ const tekst = "Witaj, Świecie!";
 Funkcje są blokami kodu, które wykonują określone zadania. 
 Możesz je definiować i wywoływać w swoim kodzie. Przykład: 
 ```
-```JavaScript
+```js
 function witaj(imie) {
     console.log("Witaj, " + imie + "!");
 }
