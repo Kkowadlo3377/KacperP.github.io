@@ -81,13 +81,13 @@ print(greet(name: "World"))
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ### Warto też zajrzeć na nasze sosialmedia:
-<a href="https://www.facebook.com/KOLBUSZOWAZST/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo" width="50">
-</a>
+[GitHub Repository](https://bartdurak.github.io/1a/)
 <br>
-<a href="https://bartdurak.github.io/1a/">
-    <img src="https://octodex.github.com/images/original.png" alt="GitHub Logo" width="50">
-</a>
+[Facebook](https://www.facebook.com/zstkolbuszowa?locale=pl_PL)
+<br>
+ [YouTube](https://www.youtube.com/@bartomiejdurak1723)
+<br>
+ [X](https://x.com/batq2)
 
 
 ```
