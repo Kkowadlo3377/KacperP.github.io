@@ -1,4 +1,8 @@
- ## Wprowadzenie do JavaSrcipt:
+---
+layout: default
+---
+
+## Wprowadzenie do JavaSrcipt:
  
 ## 1.Zrozumienie podstaw:
 
