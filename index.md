@@ -44,7 +44,7 @@ echo "Hello, World!";
 ?>
 
 ```
-
+[Link do strony w PHP](stronaPhp.html)
 ## Programowanie w Ruby:
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby Logo" width="50">
 
