@@ -75,11 +75,14 @@ print(greet(name: "World"))
 
 [GitHub Repository](https://bartdurak.github.io/1a/)
 <br>
+[Konstruktor](http://pbud.blogspot.com/)
+<br>
 [Facebook](https://www.facebook.com/zstkolbuszowa?locale=pl_PL)
 <br>
  [YouTube](https://www.youtube.com/@bartomiejdurak1723)
 <br>
  [X-twitter](https://x.com/batq2)
+ 
 
 
 
